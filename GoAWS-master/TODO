@@ -1,0 +1,21 @@
+SQS:
+  - (med) add tests
+  - (med) add SSL support
+  - (low) add ACL support
+
+S3:
+  - (med) add tests
+  - (low) ACL support
+
+Fps/Cobranded:
+  - all
+
+Fps:
+  - all
+
+Ec2:
+  - all
+
+All:
+  - Refactor some of the general auth/message structures as other types are
+    needed.
